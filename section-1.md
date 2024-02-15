@@ -15,3 +15,8 @@ For one smaller internal project that needed to be lightweight for performance a
 Recently, I was developing a scrolling marquee banner that is intended to stretch the entire width. The tricky part was ensuring that this banner's text and icons would be fully customisable through the project's CMS of choice, Storyblok.
 
 Since the content would have a variable width based on what an editor might type in Stpryblok, I could not rely on simple CSS translations to create the scrolling text effect. Instead, I had to make use of Javascript's `requestAnimationFrame` functionality to translate the content across the screen based on the content's width in relation to the screen width. This was a complex calculation that took a lot of tweaking to get right but the results in the video below I think show how smooth the final result was.
+
+https://github.com/jonoBertram/tforge-tech-assessment/assets/54099984/8fc4c476-ecbf-4b91-a4e4-df8ffb3bedb4
+
+
+
