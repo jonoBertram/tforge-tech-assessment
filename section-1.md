@@ -4,7 +4,7 @@
 
 > Discuss your experience with frontend development frameworks and libraries such as React, Vue.js, and Gatsby. Provide examples of projects where you've utilized these technologies.
 
-I have accumulated just over three years of front-end development experience in a range of different frameworks and libraries with React and Gatsby at the forefront of it. I have spent most of my professional career working on projects built with a combination of React and Gatsby such as [Yoco](yoco.com) and [Colab](wearecolab.com).
+I have accumulated just over three years of front-end development experience in a range of different frameworks and libraries with React and Gatsby at the forefront of it. I have spent most of my professional career working on projects built with a combination of React and Gatsby such as [Yoco](https://www.yoco.com/za/) and [Colab](https://wearecolab.com/).
 
 For one smaller internal project that needed to be lightweight for performance and hosting reasons, I have also worked with Vue.js although this is not publicly accessible. I've also used NextJS as the backbone of another internal Yoco tool that does not require the dynamic templating that makes Gatsby inviting and relies heavily on the performance benefits associated with NextJS's server-side rendering due to the large volumes of data that need to be queried, displayed, and manipulated.
 
